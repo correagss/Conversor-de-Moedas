@@ -20,3 +20,4 @@ class ConverterOutput(BaseModel):
     from_currency: str
     to_currency: str
     result: float
+
